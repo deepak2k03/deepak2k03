@@ -24,8 +24,8 @@
 ## 🚀 Projects Showcase:
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 Portfolio Website](https://github.com/deepak2k03/portfolio) | Personal responsive portfolio built with Tailwind and React. | React, Tailwind CSS |
-| [🔗 Contract Farming Platform](https://github.com/deepak2k03/contract-farming) | Platform for farmers & buyers to connect directly. | HTML, CSS, JS, Firebase |
+| [🔗 REST Countries Explorer]([https://github.com/deepak2k03/portfolio](https://rest-countries-api-info.netlify.app/)) | Personal responsive portfolio built with Tailwind and React. | HTML, CSS, JS |
+| [🔗 Sketch Library]([https://github.com/deepak2k03/contract-farming](https://sketch-library.netlify.app/)) | Resposive site to showcase my sketches | HTML, CSS, JS |
 | [🔗 Programming Profiles Aggregator](https://github.com/deepak2k03/programming-aggregator) | Aggregates Codeforces, Leetcode, GFG stats in one place. | JS, Express, Puppeteer |
 
 > Want your best projects here? Just replace the links and descriptions above!
