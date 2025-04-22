@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Deepak+Singh.;I+💙+Competitive+Programming.;I+build+Web+Apps+and+Projects!" alt="Typing SVG" />
 </p>
 
-
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -10,7 +9,7 @@
 ## 💫 About Me:
 🎓 3rd-year B.Tech Student at KNIT, Sultanpur  
 💻 Strong grip on DSA, Competitive Programming & Web Development  
-🚀 Always seeking to build & learn something new
+🚀 Always seeking to build & learn something new  
 
 ---
 
@@ -23,13 +22,12 @@
 ---
 
 ## 🚀 Projects Showcase:
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 REST Countries Explorer]([https://github.com/deepak2k03/portfolio](https://rest-countries-api-info.netlify.app/)) | Personal responsive portfolio built with Tailwind and React. | HTML, CSS, JS |
-| [🔗 Sketch Library]([https://github.com/deepak2k03/contract-farming](https://sketch-library.netlify.app/)) | Resposive site to showcase my sketches | HTML, CSS, JS |
+| [🔗 REST Countries Explorer](https://rest-countries-api-info.netlify.app/) | Responsive site to explore countries with search and filter options. | HTML, CSS, JS |
+| [🔗 Sketch Library](https://sketch-library.netlify.app/) | Responsive site to showcase my sketches. | HTML, CSS, JS |
 | [🔗 Programming Profiles Aggregator](https://github.com/deepak2k03/programming-aggregator) | Aggregates Codeforces, Leetcode, GFG stats in one place. | JS, Express, Puppeteer |
-
-> Want your best projects here? Just replace the links and descriptions above!
 
 ---
 
