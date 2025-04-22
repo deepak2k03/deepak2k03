@@ -28,7 +28,6 @@
 |--------|-------------|------|
 | [🔗 REST Countries Explorer](https://rest-countries-api-info.netlify.app/) | Responsive site to explore countries with search and filter options. | HTML, CSS, JS |
 | [🔗 Sketch Library](https://sketch-library.netlify.app/) | Responsive site to showcase my sketches. | HTML, CSS, JS |
-| [🔗 Programming Profiles Aggregator](https://github.com/deepak2k03/programming-aggregator) | Aggregates Codeforces, Leetcode, GFG stats in one place. | JS, Express, Puppeteer |
 
 ---
 
