@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
-<h3 align="center">Passionate about Competitive Programming & Full-Stack Development</h3>
+<h3 align="center">Passionate about Competitive Programming, DSA & Full-Stack Development</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
