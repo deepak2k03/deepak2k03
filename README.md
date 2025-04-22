@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Deepak Singh</h1>
-<h3 align="center">Passionate about Competitive Programming, DSA & Full-Stack Development</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Deepak+Singh.;I+💙+Competitive+Programming.;I+build+Web+Apps+and+Projects!" />
+</p>
+
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 💫 About Me:
 🎓 3rd-year B.Tech Student at KNIT, Sultanpur  
-💻 I love working with Data Structures, Algorithms, and Web Development  
-⚡ Always looking for challenges to grow my skills  
+💻 Strong grip on DSA, Competitive Programming & Web Development  
+🚀 Always seeking to build & learn something new
 
 ---
 
@@ -15,6 +18,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-singh-1b8590257) 
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/deepak2k03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sman59472@gmail.com)
+
+---
+
+## 🚀 Projects Showcase:
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔗 Portfolio Website](https://github.com/deepak2k03/portfolio) | Personal responsive portfolio built with Tailwind and React. | React, Tailwind CSS |
+| [🔗 Contract Farming Platform](https://github.com/deepak2k03/contract-farming) | Platform for farmers & buyers to connect directly. | HTML, CSS, JS, Firebase |
+| [🔗 Programming Profiles Aggregator](https://github.com/deepak2k03/programming-aggregator) | Aggregates Codeforces, Leetcode, GFG stats in one place. | JS, Express, Puppeteer |
+
+> Want your best projects here? Just replace the links and descriptions above!
 
 ---
 
