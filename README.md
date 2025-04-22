@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Deepak+Singh.;I+💙+Competitive+Programming.;I+build+Web+Apps+and+Projects!" alt="Typing SVG" />
 </p>
 
-
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -19,6 +18,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-singh-1b8590257) 
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/deepak2k03)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sman59472@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919795195257)
+
+---
+
+## 🧠 Competitive Programming Profiles:
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23A52A2A.svg?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepak2k03)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/deepak2k03)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white)](https://atcoder.jp/users/deepak2k03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/deepak2k03/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepak2k03)
 
 ---
 
