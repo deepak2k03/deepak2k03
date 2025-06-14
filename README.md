@@ -81,6 +81,10 @@
 </div>
 
 ---
+## 🐍 Contributions:
+<p align="center">
+  <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ## 🏆 GitHub Trophies:
 <p align="center">
@@ -96,10 +100,6 @@
 
 ---
 
-## 🐍 Contributions:
-<p align="center">
-  <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
