@@ -96,9 +96,9 @@
 
 ---
 
-## 🔝 Top Contributed Repositories:
+## 🐍 Contribution Snake Game:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=deepak2k03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github.com/deepak2k03/deepak2k03/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
