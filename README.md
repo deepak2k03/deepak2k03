@@ -26,61 +26,39 @@
 
 ## 🧠 Competitive Programming Profiles:
 
-<table align="center" style="width:100%;">
-  <thead>
-    <tr>
-      <th style="width:33%; text-align:center;">Platform</th>
-      <th style="width:33%; text-align:center;">Visit Profile</th>
-      <th style="width:33%; text-align:center;">Rating</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">CodeChef</td>
-      <td align="center">
-        <a href="https://www.codechef.com/users/deepak2k03">
-          <img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
-        </a>
-      </td>
-      <td align="center">4 Star</td>
-    </tr>
-    <tr>
-      <td align="center">Codeforces</td>
-      <td align="center">
-        <a href="https://codeforces.com/profile/deepak2k03">
-          <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-        </a>
-      </td>
-      <td align="center">Specialist</td>
-    </tr>
-    <tr>
-      <td align="center">LeetCode</td>
-      <td align="center">
-        <a href="https://leetcode.com/deepak2k03/">
-          <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-        </a>
-      </td>
-      <td align="center">Knight</td>
-    </tr>
-    <tr>
-      <td align="center">AtCoder</td>
-      <td align="center">
-        <a href="https://atcoder.jp/users/deepak2k03">
-          <img src="https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white" alt="AtCoder" />
-        </a>
-      </td>
-      <td align="center">384</td>
-    </tr>
-    <tr>
-      <td align="center">GeeksforGeeks</td>
-      <td align="center">
-        <a href="https://auth.geeksforgeeks.org/user/deepak2k03">
-          <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-        </a>
-      </td>
-      <td align="center">3 Star</td>
-    </tr>
-  </tbody>
+## 🧠 Competitive Programming Profiles:
+
+<table align="center">
+  <tr>
+    <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th align="center" style="min-width:300px;">Visit Profile</th>
+    <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rating&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <td align="center">CodeChef</td>
+    <td align="center"><a href="https://www.codechef.com/users/deepak2k03"><img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a></td>
+    <td align="center">4 Star</td>
+  </tr>
+  <tr>
+    <td align="center">Codeforces</td>
+    <td align="center"><a href="https://codeforces.com/profile/deepak2k03"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a></td>
+    <td align="center">Specialist</td>
+  </tr>
+  <tr>
+    <td align="center">LeetCode</td>
+    <td align="center"><a href="https://leetcode.com/deepak2k03/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a></td>
+    <td align="center">Knight</td>
+  </tr>
+  <tr>
+    <td align="center">AtCoder</td>
+    <td align="center"><a href="https://atcoder.jp/users/deepak2k03"><img src="https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white" alt="AtCoder" /></a></td>
+    <td align="center">384</td>
+  </tr>
+  <tr>
+    <td align="center">GeeksforGeeks</td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/deepak2k03"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a></td>
+    <td align="center">3 Star</td>
+  </tr>
 </table>
 
 
