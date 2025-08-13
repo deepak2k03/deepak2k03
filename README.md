@@ -24,10 +24,6 @@
 
 ## 🧠 Competitive Programming Profiles:
 
-## 🧠 Competitive Programming Profiles:
-
-## 🧠 Competitive Programming Profiles:
-
 <table align="center">
   <tr>
     <th align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
