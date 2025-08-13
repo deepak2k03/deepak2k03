@@ -60,6 +60,7 @@
 
 
 ---
+## 🚀 Projects Showcase:
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 Skill Bridge](https://github.com/deepak2k03/Skill-Bridge) | A platform to learn and exchange skills without paying money | JS, Tailwind, React, MongoDB, Redux |
