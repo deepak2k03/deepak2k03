@@ -23,19 +23,19 @@
 ---
 
 ## 🧠 Competitive Programming Profiles:
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23A52A2A.svg?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepak2k03)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/deepak2k03)
-[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white)](https://atcoder.jp/users/deepak2k03)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/deepak2k03/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepak2k03)
+
+
+
+
+
 
 | Platform | Visit Profile | Rating |
 |----------|---------------|--------|
-| CodeChef | [Profile](https://www.codechef.com/users/deepak2k03) | 4 Star |
-| Codeforces | [Profile](https://codeforces.com/profile/deepak2k03) | Specialist |
-| LeetCode | [Profile](https://leetcode.com/deepak2k03/) | Knight |
-| AtCoder | [Profile](https://atcoder.jp/users/deepak2k03) | 384 |
-| GeeksforGeeks | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) | 3 Star |
+| CodeChef | [![CodeChef](https://img.shields.io/badge/CodeChef-%23A52A2A.svg?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/deepak2k03) | 4 Star |
+| Codeforces | [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/deepak2k03) | Specialist |
+| LeetCode | [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/deepak2k03/) | Knight |
+| AtCoder | [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white)](https://atcoder.jp/users/deepak2k03) | 384 |
+| GeeksforGeeks |[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepak2k03) | 3 Star |
 
 
 ---
