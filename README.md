@@ -60,15 +60,12 @@
 
 
 ---
-## 🚀 Projects Showcase:
-<div align="center" width="80%">
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 Skill Bridge](https://github.com/deepak2k03/Skill-Bridge) | A platform to learn and exchange skills without paying money | JS, Tailwind, React, MongoDB, Redux |
 | [🔗 Code Complexity Analyser](https://code-complexity-analyser.netlify.app/) | Analyses Time and Space complexities of code. | HTML, CSS, JS, Tailwind, React |
 | [🔗 REST Countries Explorer](https://rest-countries-api-info.netlify.app/) | Responsive site to explore countries with search and filter options. | HTML, CSS, JS |
 | [🔗 Password Generator](https://password-generator-by-deepak.netlify.app/) | Generates strong passwords using character, numbers and aplhabets of desrired length. | HTML, CSS, JS, Tailwind, React |
-</div>
 
 ---
 
