@@ -29,8 +29,16 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/deepak2k03/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepak2k03)
 
----
+| Platform | Visit Profile | Rating |
+|----------|---------------|--------|
+| CodeChef | [Profile](https://www.codechef.com/users/deepak2k03) | 4 Star |
+| Codeforces | [Profile](https://codeforces.com/profile/deepak2k03) | Specialist |
+| LeetCode | [Profile](https://leetcode.com/deepak2k03/) | Knight |
+| AtCoder | [Profile](https://atcoder.jp/users/deepak2k03) | 384 |
+| GeeksforGeeks | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) | 3 Star |
 
+
+---
 ## 🚀 Projects Showcase:
 
 | Project | Description | Tech |
