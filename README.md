@@ -23,7 +23,7 @@
 ---
 
 ## 🧠 Competitive Programming Profiles:
-<div align="center">
+<div align="center" width="80%">
 
 | Platform | Visit Profile | Rating |
 |----------|---------------|--------|
