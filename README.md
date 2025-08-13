@@ -23,11 +23,7 @@
 ---
 
 ## 🧠 Competitive Programming Profiles:
-
-
-
-
-
+<div align="center">
 
 | Platform | Visit Profile | Rating |
 |----------|---------------|--------|
@@ -36,7 +32,7 @@
 | LeetCode | [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/deepak2k03/) | Knight |
 | AtCoder | [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTAgMGgyMHYyMEgweiIvPjwvc3ZnPg==&logoColor=white)](https://atcoder.jp/users/deepak2k03) | 384 |
 | GeeksforGeeks |[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepak2k03) | 3 Star |
-
+</div>
 
 ---
 ## 🚀 Projects Showcase:
