@@ -134,7 +134,7 @@
 
 ## 🧮 Visitor Count:
 <p align="center">
-  <img src="https://profile-counter.glitch.me/deepak2k03/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=deepak2k03&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
