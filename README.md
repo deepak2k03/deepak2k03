@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 💫 About Me:
-🎓 3rd-year B.Tech Student at KNIT, Sultanpur  
+🎓 Final-year B.Tech Student at KNIT, Sultanpur  
 💻 Strong grip on DSA, Competitive Programming & Web Development  
 🚀 Always seeking to build & learn something new  
 
