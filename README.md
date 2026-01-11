@@ -72,7 +72,7 @@
 | [🔗 DSA Sheet](https://dsa-sheet-by-deepak.netlify.app/) | AN organized DSA Practice web app | HTML, CSS, Tailwind, React, Bootstrap, MongoDB, NodeJS |
 | [🔗 MERN CRUD App](https://github.com/deepak2k03/MERN-CRUD-APP) | A Full Stack MERN App With CRUD Functionality | HTML, CSS, Bootstarp, React, ExpressJS, MongoDB, NodeJS |
 | [🔗 Code Complexity Analyser](https://code-complexity-analyser.netlify.app/) | Analyses Time and Space complexities of code. | HTML, CSS, JS, Tailwind, React |
-| [🔗 Portfolio Site](https://deepak-singh-2k03-portfolio.netlify.app/) | My Portfolio. | HTML, CSS, JS, React |
+| [🔗 Portfolio Site](https://my-portfolio-ashy-tau-86.vercel.app/) | My Portfolio. | HTML, CSS, JS, React |
 | [🔗 REST Countries Explorer](https://rest-countries-api-info.netlify.app/) | Responsive site to explore countries with search and filter options. | HTML, CSS, JS |
 | [🔗 Password Generator](https://password-generator-by-deepak.netlify.app/) | Generates strong passwords using character, numbers and aplhabets of desrired length. | HTML, CSS, JS, Tailwind, React |
 
