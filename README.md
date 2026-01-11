@@ -63,7 +63,7 @@
 ## 🚀 Projects Showcase:
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 Dtube](https://publiceye-two.vercel.app/) | A Youtube Like video sharing platform | NodeJS, ExpressJS, JWT, Multer, Cloudinary |
+| [🔗 Dtube](https://dtube.vercel.app/) | A Youtube Like video sharing platform | NodeJS, ExpressJS, JWT, Multer, Cloudinary |
 | [🔗 PublicEye](https://publiceye-two.vercel.app/) | A Blockchain based web platform to track government projects and tenders | ReactJS, TailwindCSS, NodeJS, ExpressJS, MongoDB, Redux, SpringBoot, Blockchain(Ethereium), Solidity |
 | [🔗 Skill Bridge](https://skill-bridge-frontend.onrender.com/dashboard) | A platform to learn and exchange skills without paying money | ReactJS, TailwindCSS, NodeJS, ExpressJS, JWT, MongoDB, Socket.io |
 | [🔗 Mutimind](https://multi-mind-xi.vercel.app/) | A Platform To analyze and compare the responses of various AI Models | HTML, CSS, Tailwind, React, NextJS, MongoDB, NodeJS, OpenRouter |
