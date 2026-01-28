@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DEEPAK%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=DEEPAK%20SINGH&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -14,6 +14,10 @@
   <a href="https://instagram.com/deepak2k03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F7FF&height=20&section=footer" width="100%" />
+</p>
+
 ---
 
 <div align="center">
@@ -25,6 +29,10 @@
 | **KNIT Sultanpur** | **Information Technology** | **4⭐ CodeChef \| Knight** | **India** |
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F7FF&height=20&section=footer" width="100%" />
+</p>
 
 ---
 
@@ -46,6 +54,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F7FF&height=20&section=footer" width="100%" />
+</p>
+
 ---
 
 <div align="center">
@@ -65,6 +77,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F7FF&height=20&section=footer" width="100%" />
+</p>
 
 ---
 
@@ -88,6 +104,10 @@
 | **🔐 PassGen** | Security Utility | `React`, `Tailwind` | [Visit](https://password-generator-by-deepak.netlify.app/) |
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F7FF&height=20&section=footer" width="100%" />
+</p>
 
 ---
 
@@ -120,4 +140,8 @@
 
 <p align="center">
   <b>Built with 💙 by Deepak Singh</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%" />
 </p>
