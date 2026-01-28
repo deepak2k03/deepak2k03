@@ -44,11 +44,8 @@
 
 ---
 
----
-
 <div align="center">
 
----
 
 ## 🛠️ Technical Arsenal
 
@@ -65,7 +62,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📂 Engineering Portfolio (Full Project List)
 
 | Project Name | Feature Focus | Tech Stack | Live Demo |
