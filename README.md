@@ -85,11 +85,10 @@
 
 <br/> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
 
 <br/>
 
-### 🐍 Contribution Activity
+### Contribution Activity
 <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
