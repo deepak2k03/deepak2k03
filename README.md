@@ -83,19 +83,6 @@
 
 <div align="center">
 
-## 📊 Analytics & Performance
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepak2k03&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2k03&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <br/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
