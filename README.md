@@ -97,7 +97,7 @@
   <tr>
     <td><b>🤝 Skill Bridge</b></td>
     <td>P2P Skill Exchange</td>
-    <td><code>Socket.io</code>, <code>MERN</code><td>
+    <td><code>Socket.io</code>, <code>MERN</code></td>
     <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
   </tr>
 
