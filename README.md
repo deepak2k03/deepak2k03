@@ -83,21 +83,21 @@
   <tr>
     <td><b>🧠 MultiMind</b></td>
     <td>AI Comparison Tool</td>
-    <td><code>NextJS</code>, <code>OpenRouter</code>, <code>Node</code></td>
+    <td><code>NextJS</code>, <code>OpenRouter</code>, <code>NodeJS</code></td>
     <td><a href="https://multi-mind-xi.vercel.app/">Visit</a></td>
   </tr>
 
   <tr>
     <td><b>📹 Dtube</b></td>
-    <td>Video Engine</td>
-    <td><code>NodeJS</code>, <code>Cloudinary</code>, <code>JWT</code></td>
+    <td>Video Sharing Platform</td>
+    <td><code>MERN</code>, <code>Cloudinary</code>, <code>JWT</code></td>
     <td><a href="https://dtube.vercel.app/">Visit</a></td>
   </tr>
 
   <tr>
     <td><b>🤝 Skill Bridge</b></td>
     <td>P2P Skill Exchange</td>
-    <td><code>Socket.io</code>, <code>Express</code>, <code>React</code></td>
+    <td><code>Socket.io</code>, <code>MERN</code<td>
     <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
   </tr>
 
@@ -111,14 +111,14 @@
   <tr>
     <td><b>🌿 Virtual Garden</b></td>
     <td>Herbal Hub</td>
-    <td><code>Bootstrap</code>, <code>MongoDB</code>, <code>React</code></td>
+    <td><code>MERN</code><td>
     <td><a href="https://github.com/Anshul-target/Virtual-Herbal-Garden">Code</a></td>
   </tr>
 
   <tr>
     <td><b>📋 DSA Sheet</b></td>
     <td>Curriculum Tracker</td>
-    <td><code>Tailwind</code>, <code>React</code>, <code>MERN</code></td>
+    <td><code>MERN</code></td>
     <td><a href="https://deepak-s-dsa-sheet.vercel.app">Visit</a></td>
   </tr>
 
@@ -139,7 +139,7 @@
   <tr>
     <td><b>👤 Portfolio</b></td>
     <td>Personal Branding</td>
-    <td><code>React</code>, <code>Tailwind</code>, <code>JS</code></td>
+    <td><code><code>MERN</code></td>
     <td><a href="https://my-portfolio-ashy-tau-86.vercel.app/">Visit</a></td>
   </tr>
 
