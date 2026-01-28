@@ -85,21 +85,25 @@
 
 ## 📊 Analytics & Performance
 
-<table width="100%" border="0">
+<table align="center" width="100%" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepak2k03&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="100%" />
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=deepak2k03&show_icons=true&theme=tokyonight" width="95%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=deepak2k03&theme=tokyonight&hide_border=true" width="100%" />
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2k03&theme=tokyonight" width="95%" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      <h3>🛠️ Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight" width="95%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+      <h3>🏆 GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true" width="95%" />
     </td>
   </tr>
 </table>
