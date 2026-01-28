@@ -97,7 +97,7 @@
   <tr>
     <td><b>🤝 Skill Bridge</b></td>
     <td>P2P Skill Exchange</td>
-    <td><code>Socket.io</code>, <code>MERN</code<td>
+    <td><code>Socket.io</code>, <code>MERN</code><td>
     <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
   </tr>
 
@@ -111,7 +111,7 @@
   <tr>
     <td><b>🌿 Virtual Garden</b></td>
     <td>Herbal Hub</td>
-    <td><code>MERN</code><td>
+    <td><code>MERN</code></td>
     <td><a href="https://github.com/Anshul-target/Virtual-Herbal-Garden">Code</a></td>
   </tr>
 
