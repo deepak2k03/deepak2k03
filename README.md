@@ -20,9 +20,12 @@
 
 ## ⚡ Quick Peek Dashboard
 
-| 🎓 Education | 💻 Specialization | 🏅 Achievements | 📍 Location |
-| :---: | :---: | :---: | :---: |
-| **KNIT Sultanpur** | **Information Technology** | **4⭐ CodeChef \| Knight** | **India** |
+| Info        | Details |
+|-------------|---------|
+| **Education** | Kamla Nehru Institute of Technology, Sultanpur |
+| **Location**  | India, Uttar Pradesh |
+| **Interests** | DSA, Dev, CP, Open Source |
+
 
 </div>
 
