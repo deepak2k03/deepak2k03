@@ -44,21 +44,38 @@
 
 ---
 
+---
+
 <div align="center">
 
-## 🛠️ Technical Architecture
+## 🛠️ Technical Arsenal
 
-### 🛡️ Languages & Frontend Ecosystem
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,react,nextjs,redux,tailwind,bootstrap,figma" />
+### 🛡️ Core Programming & Logic
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js" alt="Languages" />
 
-### ⚙️ Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman,git,github,vscode,netlify,vercel,npm" />
+<br/>
+
+### 🎨 Frontend & UI/UX Design
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,figma" alt="Frontend" />
+
+<br/>
+
+### ⚙️ Backend & Data Management
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
+
+<br/>
+
+### ⛓️ Web3 & Blockchain Specialization
+<img src="https://skillicons.dev/icons?i=solidity" alt="Web3" />
+
+<br/>
+
+### 🚀 DevOps, Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,npm" alt="Tools" />
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 📂 Engineering Portfolio (Full Project List)
 
@@ -83,10 +100,6 @@
 
 <div align="center">
 
-<br/> 
-
-
-<br/>
 
 ### Contribution Activity
 <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
