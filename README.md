@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+Developer;Blockchain+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+Developer+🚀;Blockchain+Enthusiast+⛓️;Solving+Complex+Problems+🧠" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,13 +34,11 @@
 
 | Platform | Rating / Title | Link |
 | :--- | :---: | :---: |
-| **CodeChef** | 4 Stars | [Profile](https://www.codechef.com/users/deepak2k03) |
-| **Codeforces** | Expert | [Profile](https://codeforces.com/profile/deepak2k03) |
-| **LeetCode** | Knight | [Profile](https://leetcode.com/deepak2k03/) |
+| **CodeChef** | 🌟🌟🌟🌟 (4 Stars) | [Profile](https://www.codechef.com/users/deepak2k03) |
+| **Codeforces** | Specialist | [Profile](https://codeforces.com/profile/deepak2k03) |
+| **LeetCode** | ⚔️ Knight | [Profile](https://leetcode.com/deepak2k03/) |
 | **AtCoder** | 384 | [Profile](https://atcoder.jp/users/deepak2k03) |
-| **GeeksforGeeks** | 3 Star | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
-
-<br/>
+| **GeeksforGeeks** | 🌟🌟🌟 (3 Star) | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
 
 </div>
 
@@ -50,17 +48,11 @@
 
 ## 🛠️ Technical Architecture
 
-### 🛡️ Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" />
-
-### 🎨 Frontend Ecosystem
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
+### 🛡️ Languages & Frontend Ecosystem
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,react,nextjs,redux,tailwind,bootstrap,figma" />
 
 ### ⚙️ Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman" />
-
-### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman,git,github,vscode,netlify,vercel,npm" />
 
 </div>
 
@@ -91,17 +83,30 @@
 
 <div align="center">
 
-## 📈 Analytics & Contribution
+## 📊 Analytics & Performance
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepak2k03&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=deepak2k03&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=deepak2k03&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=deepak2k03&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+### 🐍 Contribution Activity
 <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
@@ -116,3 +121,6 @@
   <img src="https://hits.sh/github.com/deepak2k03.svg?style=for-the-badge&label=Digital+Footprints&color=00F7FF" />
 </p>
 
+<p align="center">
+  <b>Built with 💙 by Deepak Singh</b>
+</p>
