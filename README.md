@@ -15,54 +15,54 @@
 
 ---
 
+<div align="center">
+
 ## ⚡ Quick Peek Dashboard
-<table width="100%" border="0">
-  <tr>
-    <td width="55%" align="left" valign="top">
-      <h3>🚀 Profile Overview</h3>
-      <ul>
-        <li>🎓 <b>Final-year B.Tech Student</b> @ KNIT Sultanpur</li>
-        <li>💻 <b>Specialization:</b> IT (Information Technology)</li>
-        <li>🔥 <b>Expertise:</b> DSA, Competitive Programming, MERN</li>
-        <li>🏆 <b>Rating:</b> 4-Star CodeChef | Specialist CF | Knight LeetCode</li>
-        <li>🌍 <b>Location:</b> India</li>
-      </ul>
-    </td>
-    <td width="45%" align="right" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+
+| 🎓 Education | 💻 Branch | 🧠 Focus | 📍 Location |
+| :---: | :---: | :---: | :---: |
+| **KNIT Sultanpur** | **Information Tech** | **DSA & Web3** | **India** |
+
+<br/>
+
+### 🏆 Competitive Programming Excellence
+<img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&column=4" width="100%" />
+
+| Platform | Rating / Title |
+| :---: | :---: |
+| **CodeChef** | 🌟🌟🌟🌟 (4 Star) |
+| **Codeforces** | Specialist |
+| **LeetCode** | ⚔️ Knight |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Specialized Tech Arsenal
 
-### 🔹 Core Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" />
-</p>
+### 🔹 Core Languages 🔹
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" />
 
-### 🔹 Frontend Mastery
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
-</p>
+### 🔹 Frontend Mastery 🔹
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
 
-### 🔹 Backend & Web3 Engine
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman" />
-</p>
+### 🔹 Backend & Web3 Engine 🔹
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman" />
 
-### 🔹 Tools & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
-</p>
+### 🔹 Tools & Deployment 🔹
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📂 Engineering Showcase (Project Hub)
 
-| Project | Core Functionality | Tech Stack | Link |
+| Project | Core Functionality | Tech Stack | View |
 | :--- | :--- | :--- | :---: |
 | **🌐 PublicEye** | Blockchain Gov Tracker | `Solidity`, `React`, `Node` | [Live](https://publiceye-two.vercel.app/) |
 | **🧠 MultiMind** | AI Model Comparison | `NextJS`, `OpenRouter`, `NoSQL` | [Live](https://multi-mind-xi.vercel.app/) |
@@ -77,17 +77,26 @@
 | **🌍 Countries** | API Data Explorer | `Rest API`, `JavaScript` | [Live](https://rest-countries-api-info.netlify.app/) |
 | **🔐 PassGen** | Security Utility | `React`, `Tailwind` | [Live](https://password-generator-by-deepak.netlify.app/) |
 
+</div>
+
 ---
 
-## 📊 Analytics Dashboard
+<div align="center">
+
+## 📊 Analytics & Activity
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepak2k03&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=deepak2k03&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+
+<br/>
+
+<img src="https://github.com/deepak2k03/deepak2k03/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
 
 ---
 
