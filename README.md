@@ -48,30 +48,19 @@
 
 <div align="center">
 
+---
+
 ## 🛠️ Technical Arsenal
 
-### 🛡️ Core Programming & Logic
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js" alt="Languages" />
+| Category | Technologies |
+|--------|--------------|
+| 🛡️ **Core Programming & Logic** | <img src="https://skillicons.dev/icons?i=cpp,java,py,js" /> |
+| 🎨 **Frontend & UI/UX Design** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,figma" /> |
+| ⚙️ **Backend & Data Management** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
+| ⛓️ **Web3 & Blockchain Specialization** | <img src="https://skillicons.dev/icons?i=solidity" /> |
+| 🚀 **DevOps, Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,npm" /> |
 
-<br/>
-
-### 🎨 Frontend & UI/UX Design
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,figma" alt="Frontend" />
-
-<br/>
-
-### ⚙️ Backend & Data Management
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
-
-<br/>
-
-### ⛓️ Web3 & Blockchain Specialization
-<img src="https://skillicons.dev/icons?i=solidity" alt="Web3" />
-
-<br/>
-
-### 🚀 DevOps, Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,npm" alt="Tools" />
+---
 
 </div>
 
