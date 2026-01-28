@@ -62,22 +62,102 @@
 </div>
 
 <div align="center">
-## 📂 Engineering Portfolio (Full Project List)
-<div align="center">
-| Project Name | Feature Focus | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :---: |
-| **🌐 PublicEye** | Blockchain Gov Tracker | `Solidity`, `Ethereum`, `MERN` | [Visit](https://publiceye-two.vercel.app/) |
-| **🧠 MultiMind** | AI Comparison Tool | `NextJS`, `OpenRouter`, `Node` | [Visit](https://multi-mind-xi.vercel.app/) |
-| **📹 Dtube** | Video Engine | `NodeJS`, `Cloudinary`, `JWT` | [Visit](https://dtube.vercel.app/) |
-| **🤝 Skill Bridge** | P2P Skill Exchange | `Socket.io`, `Express`, `React` | [Visit](https://skill-bridge-frontend.onrender.com/dashboard) |
-| **🧊 NeoCube** | Technology Platform | `MERN`, `Socket.io` | [Visit](https://neo-cube.vercel.app/) |
-| **🌿 Virtual Garden** | Herbal Hub | `Bootstrap`, `MongoDB`, `React` | [Code](https://github.com/Anshul-target/Virtual-Herbal-Garden) |
-| **📋 DSA Sheet** | Curriculum Tracker | `Tailwind`, `React`, `MERN` | [Visit](https://dsa-sheet-by-deepak.netlify.app/) |
-| **⚙️ MERN CRUD** | Foundation App | `Express`, `React`, `Node` | [Code](https://github.com/deepak2k03/MERN-CRUD-APP) |
-| **📊 Complexity** | Logic Analyser | `JavaScript`, `React` | [Visit](https://code-complexity-analyser.netlify.app/) |
-| **👤 Portfolio** | Personal Branding | `React`, `Tailwind`, `JS` | [Visit](https://my-portfolio-ashy-tau-86.vercel.app/) |
-| **🌍 Countries** | API Explorer | `Rest API`, `JavaScript` | [Visit](https://rest-countries-api-info.netlify.app/) |
-| **🔐 PassGen** | Security Utility | `React`, `Tailwind` | [Visit](https://password-generator-by-deepak.netlify.app/) |
+
+<h2>📂 Engineering Portfolio (Full Project List)</h2>
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Feature Focus</th>
+    <th>Tech Stack</th>
+    <th>Live Demo</th>
+  </tr>
+
+  <tr>
+    <td><b>🌐 PublicEye</b></td>
+    <td>Blockchain Gov Tracker</td>
+    <td><code>Solidity</code>, <code>Ethereum</code>, <code>MERN</code></td>
+    <td><a href="https://publiceye-two.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🧠 MultiMind</b></td>
+    <td>AI Comparison Tool</td>
+    <td><code>NextJS</code>, <code>OpenRouter</code>, <code>Node</code></td>
+    <td><a href="https://multi-mind-xi.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>📹 Dtube</b></td>
+    <td>Video Engine</td>
+    <td><code>NodeJS</code>, <code>Cloudinary</code>, <code>JWT</code></td>
+    <td><a href="https://dtube.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🤝 Skill Bridge</b></td>
+    <td>P2P Skill Exchange</td>
+    <td><code>Socket.io</code>, <code>Express</code>, <code>React</code></td>
+    <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🧊 NeoCube</b></td>
+    <td>Technology Platform</td>
+    <td><code>MERN</code>, <code>Socket.io</code></td>
+    <td><a href="https://neo-cube.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🌿 Virtual Garden</b></td>
+    <td>Herbal Hub</td>
+    <td><code>Bootstrap</code>, <code>MongoDB</code>, <code>React</code></td>
+    <td><a href="https://github.com/Anshul-target/Virtual-Herbal-Garden">Code</a></td>
+  </tr>
+
+  <tr>
+    <td><b>📋 DSA Sheet</b></td>
+    <td>Curriculum Tracker</td>
+    <td><code>Tailwind</code>, <code>React</code>, <code>MERN</code></td>
+    <td><a href="https://dsa-sheet-by-deepak.netlify.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>⚙️ MERN CRUD</b></td>
+    <td>Foundation App</td>
+    <td><code>Express</code>, <code>React</code>, <code>Node</code></td>
+    <td><a href="https://github.com/deepak2k03/MERN-CRUD-APP">Code</a></td>
+  </tr>
+
+  <tr>
+    <td><b>📊 Complexity</b></td>
+    <td>Logic Analyser</td>
+    <td><code>JavaScript</code>, <code>React</code></td>
+    <td><a href="https://code-complexity-analyser.netlify.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>👤 Portfolio</b></td>
+    <td>Personal Branding</td>
+    <td><code>React</code>, <code>Tailwind</code>, <code>JS</code></td>
+    <td><a href="https://my-portfolio-ashy-tau-86.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🌍 Countries</b></td>
+    <td>API Explorer</td>
+    <td><code>Rest API</code>, <code>JavaScript</code></td>
+    <td><a href="https://rest-countries-api-info.netlify.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🔐 PassGen</b></td>
+    <td>Security Utility</td>
+    <td><code>React</code>, <code>Tailwind</code></td>
+    <td><a href="https://password-generator-by-deepak.netlify.app/">Visit</a></td>
+  </tr>
+
+</table>
 
 </div>
 
