@@ -61,10 +61,9 @@
 
 </div>
 
----
 <div align="center">
 ## 📂 Engineering Portfolio (Full Project List)
-
+<div align="center">
 | Project Name | Feature Focus | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
 | **🌐 PublicEye** | Blockchain Gov Tracker | `Solidity`, `Ethereum`, `MERN` | [Visit](https://publiceye-two.vercel.app/) |
