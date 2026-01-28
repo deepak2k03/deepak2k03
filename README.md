@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<h2>📂 Engineering Portfolio (Full Project List)</h2>
+<h2> Projects </h2>
 
 <table>
   <tr>
@@ -119,18 +119,18 @@
     <td><b>📋 DSA Sheet</b></td>
     <td>Curriculum Tracker</td>
     <td><code>Tailwind</code>, <code>React</code>, <code>MERN</code></td>
-    <td><a href="https://dsa-sheet-by-deepak.netlify.app/">Visit</a></td>
+    <td><a href="https://deepak-s-dsa-sheet.vercel.app">Visit</a></td>
   </tr>
 
   <tr>
-    <td><b>⚙️ MERN CRUD</b></td>
+    <td><b>⚙️ MERN CRUD App</b></td>
     <td>Foundation App</td>
     <td><code>Express</code>, <code>React</code>, <code>Node</code></td>
     <td><a href="https://github.com/deepak2k03/MERN-CRUD-APP">Code</a></td>
   </tr>
 
   <tr>
-    <td><b>📊 Complexity</b></td>
+    <td><b>📊 Code Complexity Analyser </b></td>
     <td>Logic Analyser</td>
     <td><code>JavaScript</code>, <code>React</code></td>
     <td><a href="https://code-complexity-analyser.netlify.app/">Visit</a></td>
@@ -144,14 +144,14 @@
   </tr>
 
   <tr>
-    <td><b>🌍 Countries</b></td>
+    <td><b>🌍 REST Countries Explorer </b></td>
     <td>API Explorer</td>
     <td><code>Rest API</code>, <code>JavaScript</code></td>
     <td><a href="https://rest-countries-api-info.netlify.app/">Visit</a></td>
   </tr>
 
   <tr>
-    <td><b>🔐 PassGen</b></td>
+    <td><b>🔐 Password Generator</b></td>
     <td>Security Utility</td>
     <td><code>React</code>, <code>Tailwind</code></td>
     <td><a href="https://password-generator-by-deepak.netlify.app/">Visit</a></td>
