@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Competitive+Programmer+🎖️;Full+Stack+MERN+Developer+🚀;Blockchain+Explorer+⛓️;Problem+Solver+at+Scale+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+MERN+Developer+🚀;Blockchain+Enthusiast+⛓️;Solving+Complex+Problems+🧠" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <a href="https://x.com/deepak2k03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:sman59472@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/919569467784"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/deepak2k03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,20 +20,9 @@
 
 ## ⚡ Quick Peek Dashboard
 
-| 🎓 Education | 💻 Branch | 🧠 Focus | 📍 Location |
+| 🎓 Education | 💻 Specialization | 🏅 Achievements | 📍 Location |
 | :---: | :---: | :---: | :---: |
-| **KNIT Sultanpur** | **Information Tech** | **DSA & Web3** | **India** |
-
-<br/>
-
-### 🏆 Competitive Programming Excellence
-<img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&column=4" width="100%" />
-
-| Platform | Rating / Title |
-| :---: | :---: |
-| **CodeChef** | 🌟🌟🌟🌟 (4 Star) |
-| **Codeforces** | Specialist |
-| **LeetCode** | ⚔️ Knight |
+| **KNIT Sultanpur** | **Information Technology** | **4⭐ CodeChef \| Knight** | **India** |
 
 </div>
 
@@ -40,18 +30,38 @@
 
 <div align="center">
 
-## 🛠️ Specialized Tech Arsenal
+## 🏆 Competitive Programming Profiles
 
-### 🔹 Core Languages 🔹
+| Platform | Rating / Title | Link |
+| :--- | :---: | :---: |
+| **CodeChef** | 🌟🌟🌟🌟 (4 Star) | [Profile](https://www.codechef.com/users/deepak2k03) |
+| **Codeforces** | Specialist (1400+) | [Profile](https://codeforces.com/profile/deepak2k03) |
+| **LeetCode** | ⚔️ Knight (2000+) | [Profile](https://leetcode.com/deepak2k03/) |
+| **AtCoder** | 384 | [Profile](https://atcoder.jp/users/deepak2k03) |
+| **GeeksforGeeks** | 🌟🌟🌟 (3 Star) | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&column=5" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Technical Architecture
+
+### 🛡️ Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css" />
 
-### 🔹 Frontend Mastery 🔹
+### 🎨 Frontend Ecosystem
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
 
-### 🔹 Backend & Web3 Engine 🔹
+### ⚙️ Backend & Infrastructure
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,solidity,postman" />
 
-### 🔹 Tools & Deployment 🔹
+### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
 
 </div>
@@ -60,22 +70,22 @@
 
 <div align="center">
 
-## 📂 Engineering Showcase (Project Hub)
+## 📂 Engineering Portfolio (Full Project List)
 
-| Project | Core Functionality | Tech Stack | View |
+| Project Name | Feature Focus | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
-| **🌐 PublicEye** | Blockchain Gov Tracker | `Solidity`, `React`, `Node` | [Live](https://publiceye-two.vercel.app/) |
-| **🧠 MultiMind** | AI Model Comparison | `NextJS`, `OpenRouter`, `NoSQL` | [Live](https://multi-mind-xi.vercel.app/) |
-| **📹 Dtube** | Video Streaming Engine | `NodeJS`, `Cloudinary`, `JWT` | [Live](https://dtube.vercel.app/) |
-| **🤝 Skill Bridge** | P2P Skill Exchange | `Socket.io`, `Express`, `React` | [Live](https://skill-bridge-frontend.onrender.com/dashboard) |
-| **🧊 NeoCube** | Technology Discovery | `MERN`, `Socket.io` | [Live](https://neo-cube.vercel.app/) |
-| **🌿 Virtual Garden** | Herbal Information Hub | `Bootstrap`, `MongoDB`, `React` | [Code](https://github.com/Anshul-target/Virtual-Herbal-Garden) |
-| **📋 DSA Sheet** | Organized Practice App | `Tailwind`, `React`, `MERN` | [Live](https://dsa-sheet-by-deepak.netlify.app/) |
-| **⚙️ MERN CRUD** | Full-stack Foundation | `Express`, `React`, `Node` | [Code](https://github.com/deepak2k03/MERN-CRUD-APP) |
-| **📊 Complexity** | Time/Space Analyser | `JavaScript`, `React` | [Live](https://code-complexity-analyser.netlify.app/) |
-| **👤 Portfolio** | Personal Branding | `React`, `Tailwind` | [Live](https://my-portfolio-ashy-tau-86.vercel.app/) |
-| **🌍 Countries** | API Data Explorer | `Rest API`, `JavaScript` | [Live](https://rest-countries-api-info.netlify.app/) |
-| **🔐 PassGen** | Security Utility | `React`, `Tailwind` | [Live](https://password-generator-by-deepak.netlify.app/) |
+| **🌐 PublicEye** | Blockchain Gov Tracker | `Solidity`, `Ethereum`, `MERN` | [Visit](https://publiceye-two.vercel.app/) |
+| **🧠 MultiMind** | AI Comparison Tool | `NextJS`, `OpenRouter`, `Node` | [Visit](https://multi-mind-xi.vercel.app/) |
+| **📹 Dtube** | Video Engine | `NodeJS`, `Cloudinary`, `JWT` | [Visit](https://dtube.vercel.app/) |
+| **🤝 Skill Bridge** | P2P Skill Exchange | `Socket.io`, `Express`, `React` | [Visit](https://skill-bridge-frontend.onrender.com/dashboard) |
+| **🧊 NeoCube** | Technology Platform | `MERN`, `Socket.io` | [Visit](https://neo-cube.vercel.app/) |
+| **🌿 Virtual Garden** | Herbal Hub | `Bootstrap`, `MongoDB`, `React` | [Code](https://github.com/Anshul-target/Virtual-Herbal-Garden) |
+| **📋 DSA Sheet** | Curriculum Tracker | `Tailwind`, `React`, `MERN` | [Visit](https://dsa-sheet-by-deepak.netlify.app/) |
+| **⚙️ MERN CRUD** | Foundation App | `Express`, `React`, `Node` | [Code](https://github.com/deepak2k03/MERN-CRUD-APP) |
+| **📊 Complexity** | Logic Analyser | `JavaScript`, `React` | [Visit](https://code-complexity-analyser.netlify.app/) |
+| **👤 Portfolio** | Personal Branding | `React`, `Tailwind`, `JS` | [Visit](https://my-portfolio-ashy-tau-86.vercel.app/) |
+| **🌍 Countries** | API Explorer | `Rest API`, `JavaScript` | [Visit](https://rest-countries-api-info.netlify.app/) |
+| **🔐 PassGen** | Security Utility | `React`, `Tailwind` | [Visit](https://password-generator-by-deepak.netlify.app/) |
 
 </div>
 
@@ -83,14 +93,14 @@
 
 <div align="center">
 
-## 📊 Analytics & Activity
+## 📈 Analytics & Contribution
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepak2k03&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=deepak2k03&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak2k03&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
 
 <br/>
 
@@ -109,5 +119,5 @@
 </p>
 
 <p align="center">
-  <b>Developed with 💙 by Deepak Singh</b>
+  <b>Built with 💙 by Deepak Singh</b>
 </p>
