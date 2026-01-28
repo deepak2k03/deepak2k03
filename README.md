@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+MERN+Developer+🚀;Blockchain+Enthusiast+⛓️;Solving+Complex+Problems+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+Developer+🚀;Blockchain+Enthusiast+⛓️;Solving+Complex+Problems+🧠" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@
 
 | Platform | Rating / Title | Link |
 | :--- | :---: | :---: |
-| **CodeChef** | 🌟🌟🌟🌟 (4 Star) | [Profile](https://www.codechef.com/users/deepak2k03) |
-| **Codeforces** | Specialist (1400+) | [Profile](https://codeforces.com/profile/deepak2k03) |
-| **LeetCode** | ⚔️ Knight (2000+) | [Profile](https://leetcode.com/deepak2k03/) |
+| **CodeChef** | 4 Stars | [Profile](https://www.codechef.com/users/deepak2k03) |
+| **Codeforces** | Expert | [Profile](https://codeforces.com/profile/deepak2k03) |
+| **LeetCode** | Knight | [Profile](https://leetcode.com/deepak2k03/) |
 | **AtCoder** | 384 | [Profile](https://atcoder.jp/users/deepak2k03) |
-| **GeeksforGeeks** | 🌟🌟🌟 (3 Star) | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
+| **GeeksforGeeks** | 3 Star | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
 
 <br/>
 
