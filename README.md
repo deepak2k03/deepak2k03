@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+Developer+🚀;Blockchain+Enthusiast+⛓️;Solving+Complex+Problems+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer+🎖️;Full+Stack+Developer;Blockchain+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,8 +41,6 @@
 | **GeeksforGeeks** | 3 Star | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepak2k03&theme=tokyonight&no-frame=true&column=5" width="100%" />
 
 </div>
 
@@ -118,6 +116,3 @@
   <img src="https://hits.sh/github.com/deepak2k03.svg?style=for-the-badge&label=Digital+Footprints&color=00F7FF" />
 </p>
 
-<p align="center">
-  <b>Built with 💙 by Deepak Singh</b>
-</p>
