@@ -54,7 +54,7 @@
 
 | Category | Technologies |
 |--------|--------------|
-| 🛡️ **Core Programming & Logic** | <img src="https://skillicons.dev/icons?i=scala,c,cpp,java,py,js" /> |
+| 🛡️ **Core Programming & Logic** | <img src="https://skillicons.dev/icons?i=scala,c,cpp,java,py,js,ts" /> |
 | 🎨 **Frontend & UI/UX Design** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,figma" /> |
 | ⚙️ **Backend & Data Management** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
 | ⛓️ **Web3 & Blockchain Specialization** | <img src="https://skillicons.dev/icons?i=solidity" /> |
