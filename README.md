@@ -37,8 +37,8 @@
 
 | Platform | Rating / Title | Link |
 | :--- | :---: | :---: |
-| **CodeChef** | 🌟🌟🌟🌟 (4 Stars) | [Profile](https://www.codechef.com/users/deepak2k03) |
-| **Codeforces** | Specialist | [Profile](https://codeforces.com/profile/deepak2k03) |
+| **CodeChef** | 🌟🌟🌟🌟 (5 Stars) | [Profile](https://www.codechef.com/users/deepak2k03) |
+| **Codeforces** | Expert | [Profile](https://codeforces.com/profile/deepak2k03) |
 | **LeetCode** | ⚔️ Knight | [Profile](https://leetcode.com/deepak2k03/) |
 | **AtCoder** | 384 | [Profile](https://atcoder.jp/users/deepak2k03) |
 | **GeeksforGeeks** | 🌟🌟🌟 (3 Star) | [Profile](https://auth.geeksforgeeks.org/user/deepak2k03) |
