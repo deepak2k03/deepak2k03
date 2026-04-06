@@ -79,7 +79,7 @@
     <td><b>🌐 ResQFood</b></td>
     <td>Food Redistribution Platform</td>
     <td><code>MERN</code>, <code>Gemini API</code>, <code>Elevenlabs API</code>, <code>Cloudinary</code>, <code>Socket.io</code></td>
-    <td><a href="https://publiceye-two.vercel.app/">Visit</a></td>
+    <td><a href="https://res-q-food-00.vercel.app/">Visit</a></td>
   </tr>
 
   <tr>
