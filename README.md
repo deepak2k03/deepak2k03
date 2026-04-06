@@ -75,33 +75,11 @@
     <th>Tech Stack</th>
     <th>Live Demo</th>
   </tr>
-
-  <tr>
-    <td><b>🌐 PublicEye</b></td>
-    <td>Blockchain Gov Tracker</td>
-    <td><code>Solidity</code>, <code>Ethereum</code>, <code>MERN</code></td>
+<tr>
+    <td><b>🌐 ResQFood</b></td>
+    <td>Food Redistribution Platform</td>
+    <td><code>MERN</code>, <code>Gemini API</code>, <code>Elevenlabs API, <code>Cloudinary</code>, , <code>Socket.io</code></td>
     <td><a href="https://publiceye-two.vercel.app/">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>🧠 MultiMind</b></td>
-    <td>AI Comparison Tool</td>
-    <td><code>NextJS</code>, <code>OpenRouter</code>, <code>NodeJS</code></td>
-    <td><a href="https://multi-mind-xi.vercel.app/">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>📹 Dtube</b></td>
-    <td>Video Sharing Platform</td>
-    <td><code>MERN</code>, <code>Cloudinary</code>, <code>JWT</code></td>
-    <td><a href="https://dtube.vercel.app/">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>🤝 Skill Bridge</b></td>
-    <td>P2P Skill Exchange</td>
-    <td><code>Socket.io</code>, <code>MERN</code></td>
-    <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
   </tr>
 
   <tr>
@@ -112,17 +90,52 @@
   </tr>
 
   <tr>
-    <td><b>🌿 Virtual Garden</b></td>
-    <td>Herbal Hub</td>
-    <td><code>MERN</code></td>
-    <td><a href="https://github.com/Anshul-target/Virtual-Herbal-Garden">Code</a></td>
-  </tr>
-
-  <tr>
     <td><b>📋 DSA Sheet</b></td>
     <td>Curriculum Tracker</td>
     <td><code>MERN</code></td>
     <td><a href="https://deepak-s-dsa-sheet.vercel.app">Visit</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>🌐 PublicEye</b></td>
+    <td>Blockchain Gov Tracker</td>
+    <td><code>Solidity</code>, <code>Ethereum</code>, <code>MERN</code></td>
+    <td><a href="https://publiceye-two.vercel.app/">Visit</a></td>
+  </tr>
+
+ <tr>
+    <td><b>👤 Portfolio</b></td>
+    <td>Personal Branding</td>
+    <td><code><code>MERN</code></td>
+    <td><a href="https://my-portfolio-ashy-tau-86.vercel.app/">Visit</a></td>
+  </tr>
+
+   <tr>
+    <td><b>📹 Dtube</b></td>
+    <td>Video Sharing Platform</td>
+    <td><code>MERN</code>, <code>Cloudinary</code>, <code>JWT</code></td>
+    <td><a href="https://dtube.vercel.app/">Visit</a></td>
+  </tr>
+      
+  <tr>
+    <td><b>🧠 MultiMind</b></td>
+    <td>AI Comparison Tool</td>
+    <td><code>NextJS</code>, <code>OpenRouter</code>, <code>NodeJS</code></td>
+    <td><a href="https://multi-mind-xi.vercel.app/">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🤝 Skill Bridge</b></td>
+    <td>P2P Skill Exchange</td>
+    <td><code>Socket.io</code>, <code>MERN</code></td>
+    <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
+  </tr>
+
+  <tr>
+    <td><b>🌿 Virtual Garden</b></td>
+    <td>Herbal Hub</td>
+    <td><code>MERN</code></td>
+    <td><a href="https://github.com/Anshul-target/Virtual-Herbal-Garden">Code</a></td>
   </tr>
 
   <tr>
@@ -137,13 +150,6 @@
     <td>Logic Analyser</td>
     <td><code>JavaScript</code>, <code>React</code></td>
     <td><a href="https://code-complexity-analyser.netlify.app/">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>👤 Portfolio</b></td>
-    <td>Personal Branding</td>
-    <td><code><code>MERN</code></td>
-    <td><a href="https://my-portfolio-ashy-tau-86.vercel.app/">Visit</a></td>
   </tr>
 
   <tr>
