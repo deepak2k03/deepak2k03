@@ -58,7 +58,7 @@
 | 🎨 **Frontend & UI/UX Design** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,figma" /> |
 | ⚙️ **Backend & Data Management** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
 | ⛓️ **Web3 & Blockchain Specialization** | <img src="https://skillicons.dev/icons?i=solidity" /> |
-| 🚀 **DevOps, Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,jenkins,kubernetes,vscode,postman,netlify,vercel,npm" /> |
+| 🚀 **DevOps, Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,jenkins,kubernetes" /> |
 
 ---
 
