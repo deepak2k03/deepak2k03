@@ -125,10 +125,10 @@
   </tr>
 
   <tr>
-    <td><b>🤝 Skill Bridge</b></td>
+    <td><b>🤝 Mini AWS </b></td>
     <td>P2P Skill Exchange</td>
-    <td><code>Socket.io</code>, <code>MERN</code></td>
-    <td><a href="https://skill-bridge-frontend.onrender.com/dashboard">Visit</a></td>
+    <td><code>Docker</code>, <code>MERN</code></td>
+    <td><a href="https://github.com/deepak2k03/Mini-AWS">Visit</a></td>
   </tr>
 
   <tr>
@@ -139,17 +139,10 @@
   </tr>
 
   <tr>
-    <td><b>⚙️ MERN CRUD App</b></td>
-    <td>Foundation App</td>
+    <td><b>⚙️ Planora AI App</b></td>
+    <td>Smart Task Management System</td>
     <td><code>Express</code>, <code>React</code>, <code>Node</code></td>
-    <td><a href="https://github.com/deepak2k03/MERN-CRUD-APP">Code</a></td>
-  </tr>
-
-  <tr>
-    <td><b>📊 Code Complexity Analyser </b></td>
-    <td>Logic Analyser</td>
-    <td><code>JavaScript</code>, <code>React</code></td>
-    <td><a href="https://code-complexity-analyser.netlify.app/">Visit</a></td>
+    <td><a href="https://smart-task-management-system-alpha.vercel.app/">Code</a></td>
   </tr>
 
   <tr>
@@ -157,13 +150,6 @@
     <td>API Explorer</td>
     <td><code>Rest API</code>, <code>JavaScript</code></td>
     <td><a href="https://rest-countries-api-info.netlify.app/">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>🔐 Password Generator</b></td>
-    <td>Security Utility</td>
-    <td><code>React</code>, <code>Tailwind</code></td>
-    <td><a href="https://password-generator-by-deepak.netlify.app/">Visit</a></td>
   </tr>
 
 </table>
