@@ -76,6 +76,12 @@
     <th>Live Demo</th>
   </tr>
 <tr>
+    <td><b>🌐 CareerQuant</b></td>
+    <td>Ed Tech Platform</td>
+    <td><code>MERN</code>, <code>Gemini API</code>, <code>Elevenlabs API</code>, <code>Cloudinary</code>, <code>Socket.io</code></td>
+    <td><a href="https://www.careerquant.in">Visit</a></td>
+  </tr>
+<tr>
     <td><b>🌐 ResQFood</b></td>
     <td>Food Redistribution Platform</td>
     <td><code>MERN</code>, <code>Gemini API</code>, <code>Elevenlabs API</code>, <code>Cloudinary</code>, <code>Socket.io</code></td>
@@ -93,7 +99,7 @@
     <td><b>📋 DSA Sheet</b></td>
     <td>Curriculum Tracker</td>
     <td><code>MERN</code></td>
-    <td><a href="https://deepak-s-dsa-sheet.vercel.app">Visit</a></td>
+    <td><a href="https://dsa.careerquant.in">Visit</a></td>
   </tr>
   
   <tr>
