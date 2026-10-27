@@ -24,7 +24,7 @@
 |-------------|---------|
 | **Education** | Kamla Nehru Institute of Technology, Sultanpur |
 | **Location**  | India, Uttar Pradesh |
-| **Interests** | DSA, Dev, CP, Open Source |
+| **Interests** | DSA, Dev, CP, Open Source, AI, Cloud |
 
 
 </div>
